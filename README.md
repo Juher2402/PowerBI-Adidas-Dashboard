@@ -25,8 +25,8 @@ Dataset: Adidas sales data (CSV/Excel/SQL – specify what you used)
 
 Data Transformation: Power Query & DAX
 
-<img width="1386" height="739" alt="image" src="https://github.com/user-attachments/assets/2a807b1f-e9d8-4711-b958-20d031afd3ed" />
-
 📢 Author
 
 Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+
+<img width="1386" height="739" alt="image" src="https://github.com/user-attachments/assets/2a807b1f-e9d8-4711-b958-20d031afd3ed" />
