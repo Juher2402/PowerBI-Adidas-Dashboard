@@ -2,7 +2,7 @@ Adidas Sales Dashboard 📊
 
 📌 Overview
 
-This repository contains an interactive Power BI dashboard that visualizes Adidas sales performance across different regions, products, and time periods.
+This project is an interactive Power BI dashboard that visualizes Adidas sales performance across different regions, products, and time periods.
 The dashboard helps track sales trends, profitability, customer insights, and regional performance with a clean and interactive design.
 
 🚀 Features
