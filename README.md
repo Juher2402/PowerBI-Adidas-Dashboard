@@ -21,7 +21,7 @@ Interactive filters and slicers for deeper insights
 
 Power BI Desktop
 
-Dataset: Adidas sales data (CSV/Excel/SQL – specify what you used)
+Dataset: Adidas sales data (CSV File)
 
 Data Transformation: Power Query & DAX
 
